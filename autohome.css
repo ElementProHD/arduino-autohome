@@ -28,5 +28,5 @@ text-align:center;
 }
 a:link {color:white;}      /* unvisited link */
 a:visited {color:white;}  /* visited link */
-a:hover {color:black;}  /* mouse over link */
+a:hover {color:aqua;}  /* mouse over link */
 a:active {color:white;}  /* selected link */
